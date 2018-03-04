@@ -1649,7 +1649,6 @@
 /* Type */
 
 	body {
-		/* background-color: #935d8c; */
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -1708,6 +1707,7 @@
 
 	p {
 		margin: 0 0 2em 0;
+		color: #330000;
 	}
 
 		p.content {
@@ -1744,8 +1744,11 @@
 		font-size: 1.5em;
 	}
 
+	#main h2 {
+		color: #8c4624
+	}
+
 	h3 {
-		font-family: "NewRocker-Regular";
 		font-size: 1.25em;
 	}
 
@@ -2369,6 +2372,9 @@
 
 		.icon.style5 {
 			color: #8cc9f0;
+		}
+		.heroi {
+			width: 350px;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -3390,7 +3396,7 @@
 			color: #636363;
 		}
 
-		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
+		#main h1, #main h3, #main h4, #main h5, #main h6 {
 			color: #636363;
 		}
 
