@@ -3375,6 +3375,9 @@
 		}
 
 /* Main */
+   .promo-image {
+        margin-bottom: 1em;
+   }
 
 	#main {
 		background-color: #e5d4c2;
