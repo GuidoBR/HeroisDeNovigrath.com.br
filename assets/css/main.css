@@ -3035,11 +3035,22 @@
 			border: solid 1px;
 		}
 
+        .spotlight .main-image {
+            margin-left: 0;
+            margin-right: 14em;
+            border-radius: 0;
+        }
+
 			.spotlight .image img {
 				display: block;
 				border-radius: 100%;
 				width: 16em;
 			}
+
+            .spotlight .main-image img {
+				display: block;
+				width: 16em;
+            }
 
 		@media screen and (max-width: 980px) {
 
