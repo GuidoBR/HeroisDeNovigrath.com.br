@@ -1741,7 +1741,7 @@
 
 	h2 {
 		font-family: "NewRocker-Regular";
-		font-size: 1.5em;
+		font-size: 2em;
 	}
 
 	#main h2 {
@@ -3557,7 +3557,7 @@
 		}
 
 		#main .icon.major {
-			border-color: #dddddd;
+			border-color: #8c4624;
 		}
 
 			#main .icon.major:before {
@@ -3618,12 +3618,11 @@
 		}
 
 		#main .spotlight .image {
-			border-color: #dddddd;
+			border: none !important;
 		}
 
 		#main > .main {
             padding: 1em 5em 1em 5em;
-			border-top: solid 1px #dddddd;
 		}
 
 			#main > .main:first-child {
