@@ -3037,7 +3037,6 @@
 
         .spotlight .main-image {
             margin-left: 0;
-            margin-right: 14em;
             border-radius: 0;
         }
 
@@ -3049,7 +3048,9 @@
 
             .spotlight .main-image img {
 				display: block;
-				width: 16em;
+				border-radius: 0;
+				width: 100%;
+				max-width: 120%;
             }
 
 		@media screen and (max-width: 980px) {
@@ -3093,9 +3094,8 @@
 			}
 
 				.spotlight .image img {
-					width: 12em;
+					width: 19em;
 				}
-
 		}
 
 	.spotlight .image {
