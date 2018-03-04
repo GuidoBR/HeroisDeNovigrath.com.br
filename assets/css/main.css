@@ -1742,6 +1742,7 @@
 	h2 {
 		font-family: "NewRocker-Regular";
 		font-size: 2em;
+        color: #e5d4c2;
 	}
 
 	#main h2 {
@@ -1848,7 +1849,7 @@
 		color: #ffffff;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h3, h4, h5, h6 {
 		color: #ffffff;
 	}
 
@@ -3729,6 +3730,8 @@
 		padding: 5em 5em 3em 5em ;
 		width: calc(100% + 2em);
 		margin: 0 0 3em -2em;
+        align-items: center;
+        justify-content: center;
 	}
 
 		#footer > * {
@@ -3742,6 +3745,10 @@
 			font-size: 0.8em;
 			text-align: center;
 		}
+
+        #footer p {
+            color: #e5d4c2;
+        }
 
 		@media screen and (max-width: 1280px) {
 
