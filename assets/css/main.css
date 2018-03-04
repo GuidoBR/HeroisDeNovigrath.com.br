@@ -2374,7 +2374,7 @@
 			color: #8cc9f0;
 		}
 		.heroi {
-			width: 350px;
+			width: 16em;
 		}
 
 		@media screen and (max-width: 1680px) {
