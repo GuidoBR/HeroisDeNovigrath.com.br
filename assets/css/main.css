@@ -3335,6 +3335,7 @@
 					border: 0;
 					border-radius: 8px;
 					box-shadow: inset 0 0 0 1px transparent;
+                    color: #330000;
 				}
 
 					#nav ul li a:hover {
@@ -3424,7 +3425,7 @@
 		#main .button {
 			background-color: #e1c7ac;
 			box-shadow: inset 0 0 0 1px #dddddd;
-			color: #636363 !important;
+			color: #330000 !important;
 		}
 
 			#main input[type="submit"]:hover,
