@@ -1,5 +1,9 @@
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
+@font-face {
+		font-family: NewRocker-Regular;
+		src: url('../fonts/NewRocker-Regular.otf');
+}
 
 /*
 	Stellar by HTML5 UP
@@ -1736,10 +1740,12 @@
 	}
 
 	h2 {
+		font-family: "NewRocker-Regular";
 		font-size: 1.5em;
 	}
 
 	h3 {
+		font-family: "NewRocker-Regular";
 		font-size: 1.25em;
 	}
 
