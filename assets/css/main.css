@@ -52,6 +52,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+    #livrarias {
+        list-style: none;
+    }
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1836,6 +1840,15 @@
 	.align-right {
 		text-align: right;
 	}
+
+    .align-justify {
+        text-align: justify;
+        text-indent: 3em;
+    }
+
+    .align-justify p {
+        margin: 0 0 0.5em 0;
+    }
 
 	input, select, textarea {
 		color: #ffffff;
