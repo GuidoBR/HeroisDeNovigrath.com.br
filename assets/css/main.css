@@ -1663,6 +1663,10 @@
 		line-height: 1.65;
 	}
 
+    .square img {
+        border-radius: 0% !important;
+    }
+
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
@@ -1756,6 +1760,12 @@
 	h3 {
 		font-size: 1.25em;
 	}
+
+    h3.compre {
+        margin: 1em 0 1em 0;
+		color: #8c4624 !important;
+		font-family: "NewRocker-Regular";
+    }
 
 	h4 {
 		font-size: 1.1em;
