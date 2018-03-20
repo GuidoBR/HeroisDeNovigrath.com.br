@@ -1757,6 +1757,12 @@
 		font-size: 1.25em;
 	}
 
+    h3.compre {
+        margin: 1em 0 1em 0;
+		color: #8c4624 !important;
+		font-family: "NewRocker-Regular";
+    }
+
 	h4 {
 		font-size: 1.1em;
 	}
