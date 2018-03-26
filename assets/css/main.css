@@ -1697,7 +1697,6 @@ body {
         -ms-transition: color 0.2s ease, border-bottom 0.2s ease;
         transition: color 0.2s ease, border-bottom 0.2s ease;
         text-decoration: none;
-        border-bottom: dotted 1px;
         color: inherit;
     }
 
@@ -2349,7 +2348,6 @@ body {
         border-radius: 100%;
         padding: 0.65em;
         margin: 0 0 0 0;
-        cursor: default;
     }
 
     .icon.major:before {
