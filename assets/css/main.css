@@ -2152,6 +2152,11 @@ body {
         display: none;
     }
 
+    .destaque {
+        font-family: "NewRocker-Regular";
+        color: #8c4624 !important;
+    }
+
     input[type="text"],
     input[type="password"],
     input[type="email"],
