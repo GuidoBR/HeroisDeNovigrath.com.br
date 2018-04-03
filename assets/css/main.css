@@ -2155,6 +2155,13 @@ body {
     .destaque {
         font-family: "NewRocker-Regular";
         color: #8c4624 !important;
+        font-size: 1.25em;
+    }
+
+    .texto-personagens {
+        width: 80%;
+        margin: 0 auto;
+        font-size: 1.25em;
     }
 
     input[type="text"],
